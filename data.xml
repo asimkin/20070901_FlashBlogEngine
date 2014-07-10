@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Music Portal on gfe.7.alpha</title>
+		<link>http://grag.sytes.net/music</link>
+		<description>Музыкальный http-портал, Скачать mp3, mp3 на халяву, mp3 бесплатно, скачай mp3 и не пизди!, mp3 на все случаи жизни :-) Бред какой то.
+Перевод строки без tab'a
+		Строка с Табом.</description>
+		<language>ru</language>
+
+		<pubDate>Wed, 26 Sep 2007 19:00:00 +0400</pubDate>
+		<lastBuildDate>Wed, 26 Sep 2007 19:00:00 +0400</lastBuildDate>
+		
+		<docs>http://www.rssboard.org/rss-specification</docs>
+		<managingEditor>grag-net@ya.ru</managingEditor>
+		<webMaster>grag-net@ya.ru</webMaster>
+
+<!-- всё что выше не будет меняться, это стандартные теги rss2.0 -->
+<!-- кроме строчек <pubDate> & <lastBuildDate> -->
+
+<!-- Ниже пошли непосредственно новости, содержащиеся в тегах <item> -->
+<!-- Новую новость вставлять первой -->
+<!-- Описание шаблона новости -->
+<!--		
+		<item>
+			<title>(ЖАНР) НАЗВАНИЕ ГРУППЫ - НАЗВАНИЕ АЛЬБОМА(ТРЕКА) - ГОД ВЫПУСКА, ФОРМАТ, БИТРЕЙТ АУДИО</title> 
+			// пример (Rock) Ундервуд - Опиум Для Народа - 2007, MP3, 320 kbps
+			<link>ССЫЛКА на НОВОСТЬ</link>  над этим надо непосредственно подумать, можно кидать http ссылки 
+			<description><![CDATA[
+			<img border="0" src="*.jpg" />
+			<img border="0" src="*.jpg" width="" height="" align="right" />
+			картинка, надо подумать куда будем лить картинки, на сторонний сервак или к нам
+			за место *.jpg в * поставить имя файла либо полную ссылку вклюая http:// (точнее и надо полную ссылку!!!) полюбе.  
+			<b>Страна</b>:
+			<b>Жанр</b>:  Просттранство огромное.. Rock / Punk и т.д. 
+			<b>Год выпуска</b>:  XXXX 
+			<b>Формат</b>: виды форматов: MP3 / APE (image + .cue) / APE (tracks) / DTS / FLAC (image + .cue) / FLAC (tracks) / OGG Vorbis / Windows Media / AC3 / DVD-Audio / 
+			<b>Битрей аудио</b>: виды битрейтов: lossless / XXX kbps / VBR -standard / VBR -extreme 
+			<b>Продолжительность</b>:  XX:XX:XX 
+			<b>Трэклист</b>:  непосредственно название треков и номера, желательно с продолжительностью. типа: NN. TRACK_NAME (XX:XX) 
+			<br /><b>Доп. информация</b>: // в случае если мало песен, чё нить написать чтобы не вылезала картинка
+			<b>Размер</b>:  XXX Mb/Gb 
+			<b>DownLoad</b>:   <a href= 'ССЫЛКА' TARGET= '_blank' >НАЗВАНИЕ</a>
+			]]></description>
+			<pubDate>Sat, 22 Sep 2007 19:25:25 +0400</pubDate>  дата новости фотмат : Sat, 22 Sep 2007 19:25:25 +0400 
+			//ДНИ НЕДЕЛИ// "Mon"  / "Tue" /  "Wed"  / "Thu" /  "Fri"  / "Sat" /  "Sun"
+			//МЕСЯЦА// "Jan"  /  "Feb" /  "Mar"  /  "Apr" /  "May"  /  "Jun" /  "Jul"  /  "Aug" /  "Sep"  /  "Oct" /  "Nov"  /  "Dec"
+			<category>news</category>  ТАГИ, запятую с пробелом типа: 
+			Rock, Punk, 2006   С БОЛЬШОЙ БУКВЫ!!!
+			над этим ещё подумаем
+			<author>grag</author>  автор новости 
+			<comments></comments>  пока тут пусто 
+		</item>
+-->
+<!-- Шаблон новости -->
+<!--
+		<item>
+			<title></title> 
+			<link></link>
+			<description><![CDATA[
+			<img border="0" src="*.jpg" align="right" />
+			<br /><b>Страна</b>: 
+			<br /><b>Жанр</b>: 
+			<br /><b>Год выпуска</b>: 
+			<br /><b>Формат</b>: 
+			<br /><b>Битрей аудио</b>: 
+			<br /><b>Продолжительность</b>:  
+			<br /><b>Трэклист</b>:
+			<br /><b>Размер</b>:  
+			<br /><b>Доп. информация</b>:
+			<br /><b>DownLoad</b>:  <a href= '' TARGET= '_blank' ></a>
+			]]></description>
+			<pubDate></pubDate>
+			<category></category>
+			<author></author>
+			<comments></comments>
+		</item>
+-->
+		<item>
+			<title>MUSIC PORTAL on gfe7, beta version</title>
+			<link>http://grag.sytes.net/</link>
+			<description><![CDATA[<img border="0" src="http://media.imeem.com/p/OrpogMt20V.jpg" align="right" /><br />Наконец дописал сортировку по тагам. Всё. Бета версия готова. На очереди написание поиска.<br /> Об ошибках можете писать на мыло grag-net@ya.ru
+			<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+			]]></description>
+			<pubDate>Sat, 6 Oct 2007 22:22:22 +0400</pubDate>
+			<category>News, 2007</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+		<item>
+			<title>(Rock) Земфира - Спасибо - 2007, APE (image + .cue), lossless</title> 
+			<link></link>
+			<description><![CDATA[
+			<img border="0" src="http://www.gazeta.ru/files1/2176128/eest.jpg" align="right" />
+			<br /><b>Страна</b>: Россия
+			<br /><b>Жанр</b>: Rock
+			<br /><b>Год выпуска</b>: 2007
+			<br /><b>Формат</b>: APE (image + .cue)
+			<br /><b>Битрей аудио</b>: lossles
+			<br /><b>Продолжительность</b>: 42:58:50
+			<br /><b>Трэклист</b>:
+			<br />1. В Метро
+			<br />2. Воскресенье
+			<br />3. Дом
+			<br />4. Мы Разбиваемся
+			<br />5. Мальчик
+			<br />6. Господа
+			<br />7. Я Полюбила Вас
+			<br />8. Возьми Меня
+			<br />9. Когда Снег
+			<br />10. 1000 Лет
+			<br />11. Во Мне
+			<br />12. Спасибо
+			<br /><b>Размер</b>: 256 MB
+			<br /><b>DownLoad</b>:  <a href= 'http://torrents.ru/forum/viewtopic.php?t=420575' TARGET= '_blank' >torrents.ru</a>, <a href= 'http://rapidshare.com/files/61543463/zemfira_2007_spasibo.rar' TARGET= '_blank' >rapidshare.com(mp3-320)</a>
+			<br />
+			]]></description>
+			<pubDate>Sat, 6 Oct 2007 21:44:21 +0400</pubDate>
+			<category>Rock, 2007</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+		<item>
+			<title>(Rock) Декабрь - Сквозь Дым - 2007, MP3, 320 kbps</title> 
+			<link></link>
+			<description><![CDATA[
+			<img border="0" src="http://clubtochka.ru/files/images/shedule/7_08_25l.jpg" align="right"  width="405" height="290" />
+			<br /><b>Страна</b>: Россия
+			<br /><b>Жанр</b>: Rock
+			<br /><b>Год выпуска</b>: 2007
+			<br /><b>Формат</b>: MP3
+			<br /><b>Битрей аудио</b>: 320 kbps
+			<br /><b>Продолжительность</b>: 0:57:35
+			<br /><b>Трэклист</b>:
+			<br />1-Мы сможем победить
+			<br />2-Боль
+			<br />3-сквозь Дым
+			<br />4-Ушла Во Мрак
+			<br />5-Твоя Война
+			<br />6-Свет Огня
+			<br />7-Весна
+			<br />8-Стёкла Грязных Улиц
+			<br />9-К Огню
+			<br />10-Война
+			<br />11-Наша Земля
+			<br />12-Мама, Мы все сошли с Ума
+			<br /><b>Размер</b>: 132 MB
+			<br /><b>DownLoad</b>:  <a href= 'http://torrents.ru/forum/viewtopic.php?t=387901' TARGET= '_blank' >torrents.ru</a>
+			]]></description>
+			<pubDate>Sat, 6 Oct 2007 21:33:21 +0400</pubDate>
+			<category>Rock, 2007</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+		<item>
+			<title>(Core) Засрали Солнце - Закон Вне Закона - 2007, MP3, VBR 192 kbps</title> 
+			<link></link>
+			<description><![CDATA[
+			<img border="0" src="http://img0.liveinternet.ru/images/attach/b/3/3/703/3703072_Zasrali_Solnce__Zakon_Vne_Zakona_2007.jpg" align="right" />
+			<br /><b>Страна</b>: Россия
+			<br /><b>Жанр</b>: Core
+			<br /><b>Год выпуска</b>: 2007
+			<br /><b>Формат</b>: MP3
+			<br /><b>Битрей аудио</b>: VBR 192 kbps 
+			<br /><b>Трэклист</b>:
+			<br />01. Свобода
+			<br />02. Первый И Последний
+			<br />03. Я Не Хочу
+			<br />04. Фашизм Не Пройдет!
+			<br />05. Этот Мир
+			<br />06. Погребенные Заживо
+			<br />07. Закон - Криминал
+			<br />08. Триумф Воли
+			<br /><b>Размер</b>:  22 MB
+			<br /><b>DownLoad</b>:  <a href= 'http://torrents.ru/forum/viewtopic.php?t=423837' TARGET= '_blank' >torrents.ru</a>
+			<br /><br />
+			]]></description>
+			<pubDate>Sat, 6 Oct 2007 21:33:21 +0400</pubDate>
+			<category>Core, 2007</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+		<item>
+			<title>(Rock, Pop-Rock) Знаки - Наизнанку - 2007, MP3, VBR extreme</title> 
+			<link></link>
+			<description><![CDATA[
+			<img border="0" src="http://img170.imageshack.us/img170/4382/covertg2.jpg" align="right" />
+			<br /><b>Страна</b>: Россия
+			<br /><b>Жанр</b>: Rock, Pop-Rock
+			<br /><b>Год выпуска</b>: 2007
+			<br /><b>Формат</b>: MP3
+			<br /><b>Битрей аудио</b>: VBR lame -preset extreme, 44,1kHz, JS
+			<br /><b>Продолжительность</b>:  46:09
+			<br /><b>Трэклист</b>:
+			<br />01. МаМа
+			<br />02. Побежали
+			<br />03. Полли
+			<br />04. Бандиты
+			<br />05. Фея
+			<br />06. Стрелки
+			<br />07. Беспокойство
+			<br />08. Город
+			<br />09. Информер
+			<br />10. Ольга
+			<br />11. Кома
+			<br />12. Золото
+			<br />13. Негодяи
+			<br />14. Иди домой
+			<br /><b>Размер</b>:  82 MB
+			<br /><b>DownLoad</b>:  <a href= 'http://torrents.ru/forum/viewtopic.php?t=218725' TARGET= '_blank' >torrents.ru</a>
+			]]></description>
+			<pubDate>Wed, 26 Sep 2007 17:57:25 +0400</pubDate>
+			<category>Rock, Pop-Rock, 2007</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+		<item>
+			<title>(Rock) Ундервуд - Опиум Для Народа - 2007, MP3, 320 kbps</title> 
+			<link></link>
+			<description><![CDATA[<img border="0" src="http://image.bayimg.com/ka/bo/ma/ab/j.jpg" width="280" height="370" align="right" />
+			<br /><b>Страна</b>: Россия
+			<br /><b>Жанр</b>: Rock
+			<br /><b>Год выпуска</b>: 2007
+			<br /><b>Формат</b>: MP3
+			<br /><b>Битрей аудио</b>: 320 (CBR)
+			<br /><b>Продолжительность</b>:  01:04:56
+			<br /><b>Трэклист</b>:
+			<br />01. Рок-н-ролльный возраст Христа
+			<br />02. 90/60/90
+			<br />03. Это судьба
+			<br />04. До свидания
+			<br />05. E=mc^2
+			<br />06. Вечный полдень
+			<br />07. Моя любовь (совместно с БИ-2)
+			<br />08. Как звали парня?
+			<br />09. Хонки-Тонки
+			<br />10. Я не сплю с фотомоделями
+			<br />11. Весна
+			<br />12. Герпес
+			<br />13. Кровавая Мэри
+			<br />14. Товары и Услуги
+			<br />15. Опиум для народа
+			<br />16. God save digital conneсtion
+			<br />17. Пикассо (low-fi acoustic version)
+			<br />18. Чук и Гек (low-fi acoustic version)
+			<br /><b>Размер</b>:  149 MB
+			<br /><b>DownLoad</b>:  <a href= 'http://torrents.ru/forum/viewtopic.php?t=288130' TARGET= '_blank' >Torrents.ru</a>
+			]]></description>
+			<pubDate>Wed, 26 Sep 2007 14:33:25 +0400</pubDate>
+			<category>Rock</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+
+		<item>
+			<title>Gr@G Flash Engine 7 [gfe7], alpha version REALISED!!!</title>
+			<link>http://grag.sytes.net/</link>
+			<description><![CDATA[<br />И вот радость, первая версия движка наконец реализована, идёт тестирование))) об ошибках можете писать на мыло grag-net@ya.ru.<br /> Тест новой стоки))) ＜－－ тут он видит отступ. <br />Похуй цунами! Мао с нами!
+クツルフ　フタフン<br />"Декоративная надпись": 飾り文書<br />"Нам похер, что тут написано": ここは何が書いてあるか一顧もしないんだ<br />"гайдзины не разумеют лунного": 馬鹿外人の俺たちはこの言語が分からん
+			]]></description>
+			<pubDate>Sat, 22 Sep 2007 19:25:25 +0400</pubDate>
+			<category>News, 2007</category>
+			<author>grag</author>
+			<comments></comments>
+		</item>
+
+		<item>
+			<title>TEST</title>
+			<link>http://grag.sytes.net/</link>
+			<description><![CDATA[<br />Лулз или лулзы (от искаж. англ. lulz, от lol) — смех. В своем характерном использовании «все ради лулзов» или «я сделал это ради лулзов» (от англ. I did it for lulz — известного мема, приписываемого Гитлеру) означает, что получаемая от поступка радость уже является достаточным поводом для совершения этого поступка.]]></description>
+			<pubDate>Sat, 22 Sep 2007 19:30:25 +0400</pubDate>
+			<category>News</category>
+			<author>grag</author>
+		</item>
+
+		<item>
+			<title>Длинный заголовок</title>
+			<link>http://grag.sytes.net/</link>
+			<description><![CDATA[<br />Ник «Мицгол» происходит от слова «Изображение:Mithgol_sindarin.png» (читается как «mithgol»), которое в переводе с синдарина означает «Серый Плащ». Диграф «th», находящийся в подобной позиции слова, на большинстве диалектов современного английского языка произносится как [ð], на некоторых — [θ]; ни у того, ни у другого звука нет эквивалента в русском языке. Почему Мицгол предпочитает транскрибироваться с «ц» — непонятно.[2]<br />Вторая половина псевдонима («webmaster»), по утверждению самого Мицгола, изначально не была связана с его профессией разработчика веб-приложений, а появилась вследствие его увлечения компьютерными RPG, в одной из которых (ADoM) персонаж Мицгола овладел (англ. master) «заклинанием паутины» (англ. web). По свидетельству разбирающихся в той игре кащенитов — это заклинание крайне невысокого уровня.<br />Объяснение смысла псевдонима и причины его использовать изложены лично Мицголом в письме в fidonet.history. 
+			]]></description>
+			<pubDate>Sat, 22 Sep 2007 19:30:25 +0400</pubDate>
+			<category>News</category>
+			<author>grag</author>
+		</item>
+
+	</channel>
+</rss>

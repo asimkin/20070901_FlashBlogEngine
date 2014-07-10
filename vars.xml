@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<myXMLdata>
+	<myVar name="txt_main_x0" val="120" />
+	<myVar name="txt_main_y0" val="140" />
+	<myVar name="txt_main_w" val="660" />
+	<myVar name="txt_main_h" val="415" />
+
+	<myVar name="form_w" val="800" />
+	<myVar name="form_h" val="600" />
+
+	<myVar name="tags_x" val="10" />
+	<myVar name="tags_y" val="140" />
+</myXMLdata>

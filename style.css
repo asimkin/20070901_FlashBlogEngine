@@ -1,0 +1,8 @@
+﻿item		{font-family:"verdana", "tahoma", sans-serif; color:#000060} 
+title		{display:block; font-size:16; color:#000080; font-weight:bold; text-align:center;} 
+link		{display:block; font-size:12; color:#000000; font-style:italic; text-align:left;} 
+description	{display:block; font-size:11; color:#000000; text-align:left;} 
+pubDate		{display:block; font-size:10; color:#000040; font-weight:bold; text-align:left;}
+a:link		{color:#0000ff; textDecoration:underline; font-weight:bold;}
+a:hover		{color:#000080; textDecoration:underline; font-weight:bold;}
+a:active	{color:#000040; textDecoration:underline; font-weight:bold;}
